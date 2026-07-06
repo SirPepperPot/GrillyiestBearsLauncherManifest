@@ -1,0 +1,59 @@
+{
+  "manifestVersion": 2,
+  "packName": "GrilliestBears 7D2D Server Pack",
+  "packVersion": "3.0",
+  "gameVersion": "7 Days to Die V3.0",
+  "serverName": "GrilliestBears 7D2D Server",
+  "serverIp": "127.0.0.1",
+  "serverPort": "26900",
+  "requiresEacOff": true,
+  "baseUrl": "",
+  "installRootName": "Mods",
+  "packages": [
+    {
+      "id": "cogs-pois",
+      "name": "Cogs POIs",
+      "version": "1.0.0",
+      "fileName": "Cog-s-POIs.zip",
+      "sha256": "630b90f3b07a729bd37e51bc975fd2f556d3fcefb8679a0f1e6775271cf8356d",
+      "size": 1175074,
+      "extractFolder": "Cog-s-POIs",
+      "enabled": true,
+      "url": "https://www.dropbox.com/scl/fi/h3t3i7z2tcwul7zi0cgix/Cog-s-POIs.zip?rlkey=x116otifutbb5qk0zvtzv208b&st=q9jo0ik2&raw=1"
+    },
+    {
+      "id": "mxmrm-xs-poi-pack",
+      "name": "MXMRM Xs POI PACK",
+      "version": "1.16.1",
+      "fileName": "MXMRMXs-POI-PACK-V1.16.1.zip",
+      "sha256": "bc61d938ce4b3eb9e5b5c456222efe565de96e80ec002f74a814460accc695dd",
+      "size": 5115387,
+      "extractFolder": "MXMRMXs-POI-PACK",
+      "enabled": true,
+      "url": "https://www.dropbox.com/scl/fi/7dqvh9eu7utb1etak4xgj/MXMRMXs-POI-PACK-V1.16.1.zip?rlkey=gurhlvqf5xa47eumtbr4dlmqm&st=1632x17t&raw=1"
+    },
+    {
+      "id": "tdestructinators-pois",
+      "name": "Tdestructinators POIs",
+      "version": "3",
+      "fileName": "Tdestructinators-POIs-V3-Updated.zip",
+      "sha256": "9e0cdf05780c7d91be7ab9ff009cbe38738500fcf21dd3ff9bcbcd6989a54a8d",
+      "size": 2112846,
+      "extractFolder": "Tdestructinators-POIs",
+      "enabled": true,
+      "url": "https://www.dropbox.com/scl/fi/xs1r3ktnmjgfvb3xzpuxl/Tdestructinators-POIs-V3-Updated.zip?rlkey=e8n1ykxhe3c248kwb4j427awy&st=7shwtr1j&raw=1"
+    },
+    {
+      "id": "zz-tong-prefabs",
+      "name": "ZZ Tong Prefabs",
+      "version": "3.0",
+      "fileName": "ZZTong-Prefabs-V3-0-ZZ032.zip",
+      "sha256": "66be99b3d00f5b5d7afa05898da7e4ec0782513f40342d0af9e7518ee5115827",
+      "size": 43152830,
+      "extractFolder": "ZZTong-Prefabs",
+      "enabled": true,
+      "url": "https://www.dropbox.com/scl/fi/hfpkitxm5h3o2donzogrm/ZZTong-Prefabs-V3-0-ZZ032.zip?rlkey=hjttadxw2t94cj6r3n9igek2y&st=j8ms3dgq&raw=1"
+    }
+  ],
+  "changelog": []
+}
