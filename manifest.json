@@ -53,6 +53,17 @@
       "extractFolder": "ZZTong-Prefabs",
       "enabled": true,
       "url": "https://www.dropbox.com/scl/fi/hfpkitxm5h3o2donzogrm/ZZTong-Prefabs-V3-0-ZZ032.zip?rlkey=hjttadxw2t94cj6r3n9igek2y&st=j8ms3dgq&raw=1"
+    },
+    {
+      "id": "zz-tong-prefabs",
+      "name": "ZZ Tong Prefabs",
+      "version": "3.0",
+      "fileName": "ZZTong-Prefabs-V3-0-ZZ032.zip",
+      "sha256": "66be99b3d00f5b5d7afa05898da7e4ec0782513f40342d0af9e7518ee5115827",
+      "size": 43152830,
+      "extractFolder": "ZZTong-Prefabs",
+      "enabled": true,
+      "url": "https://www.dropbox.com/scl/fi/0rkfv8hxuvm2j8whfxbk1/PonsMiniMap.zip?rlkey=55t2wluh5l8hv5nq40jn0g8f2&st=sjda71g4&raw=1"
     }
   ],
   "changelog": []
