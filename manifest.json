@@ -53,17 +53,6 @@
       "extractFolder": "ZZTong-Prefabs",
       "enabled": true,
       "url": "https://www.dropbox.com/scl/fi/hfpkitxm5h3o2donzogrm/ZZTong-Prefabs-V3-0-ZZ032.zip?rlkey=hjttadxw2t94cj6r3n9igek2y&st=j8ms3dgq&raw=1"
-    },
-    {
-      "id": "pons-mini-map",
-      "name": "Pons Mini Map",
-      "version": "1.0.0",
-      "fileName": "PonsMiniMap.zip",
-      "sha256": "c0749d52d574934e90ed7a7598b7c2e4fc7a2311c757f4369d19b2b654e50d13",
-      "size": 10223,
-      "extractFolder": "PonsMiniMap",
-      "enabled": true,
-      "url": "https://www.dropbox.com/scl/fi/0rkfv8hxuvm2j8whfxbk1/PonsMiniMap.zip?rlkey=55t2wluh5l8hv5nq40jn0g8f2&st=sjda71g4&raw=1"
     }
   ],
   "changelog": []
