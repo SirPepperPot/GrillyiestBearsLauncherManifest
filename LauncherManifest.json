@@ -1,14 +1,14 @@
 {
   "manifestVersion": 1,
   "appName": "GrilliestBears 7D2D Server Sync",
-  "latestVersion": "0.1.0",
+  "latestVersion": "0.1.1",
   "minimumSupportedVersion": "0.1.0",
   "downloadUrl": "https://www.dropbox.com/scl/fi/yfmk2wirfjbj1nowcqyoc/GrilliestBearsLauncher_v0.1.1.zip?rlkey=6u7cuvihcf3lew6vxqi1hrns7&st=tkt8s9dl&raw=1",
-  "sha256": "32854147e8f2d68df5d6fc167e7f7166bae8d64dedc812463ce9608680ad5f27",
-  "size": 58925710,
+  "sha256": "ebade21a4efee3f7ca5336de553b1be3aad3d8614c8e12d803de15bc9e8cec2d",
+  "size": 58927062,
   "releaseNotes": [
-    "Initial launcher build with self-update support",
-    "Includes updater helper"
+    "Removed manual launcher update button",
+    "Launcher now checks for launcher updates automatically on startup"
   ],
   "forceUpdate": false
 }
