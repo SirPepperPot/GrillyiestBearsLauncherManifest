@@ -53,8 +53,19 @@
       "extractFolder": "Teragon POIs",
       "enabled": true,
       "url": "https://www.dropbox.com/scl/fi/mkhh8gg6cpagmu1zdo3op/Teragon-POIs.zip?rlkey=ldpaukbwa8k9swmarev6w9vf5&st=mglc5qp0&raw=1"
+    },
+    {
+      "id": "zz-tong-prefabs",
+      "name": "ZZ Tong Prefabs",
+      "version": "3.0",
+      "fileName": "ZZTong-Prefabs-V3-0-ZZ032.zip",
+      "sha256": "66be99b3d00f5b5d7afa05898da7e4ec0782513f40342d0af9e7518ee5115827",
+      "size": 43152830,
+      "extractFolder": "ZZTong-Prefabs",
+      "enabled": true,
+      "url": "https://www.dropbox.com/scl/fi/hfpkitxm5h3o2donzogrm/ZZTong-Prefabs-V3-0-ZZ032.zip?rlkey=hjttadxw2t94cj6r3n9igek2y&st=2kn2vm67&raw=1"
     }
   ],
 
-  "changelog": []
+  "changelog": ["Initial release of GrilliestBears 7D2D Server Pack version 3.0 with updated POIs and prefabs."]
 }
