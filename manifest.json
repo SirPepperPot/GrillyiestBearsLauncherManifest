@@ -43,17 +43,18 @@
       "enabled": true,
       "url": "https://www.dropbox.com/scl/fi/xs1r3ktnmjgfvb3xzpuxl/Tdestructinators-POIs-V3-Updated.zip?rlkey=e8n1ykxhe3c248kwb4j427awy&st=7shwtr1j&raw=1"
     },
-    {
-      "id": "zz-tong-prefabs",
-      "name": "ZZ Tong Prefabs",
-      "version": "3.0",
-      "fileName": "ZZTong-Prefabs-V3-0-ZZ032.zip",
-      "sha256": "66be99b3d00f5b5d7afa05898da7e4ec0782513f40342d0af9e7518ee5115827",
-      "size": 43152830,
-      "extractFolder": "ZZTong-Prefabs",
+     {
+      "id": "teragon-pois",
+      "name": "Teragon POIs",
+      "version": "1.0.0",
+      "fileName": "Teragon POIs.zip",
+      "sha256": "3bd71193155ba7199df38415a11b88a8d47cfd17c81f3013ed277fbb1b320a78",
+      "size": 2718821,
+      "extractFolder": "Teragon POIs",
       "enabled": true,
-      "url": "https://www.dropbox.com/scl/fi/hfpkitxm5h3o2donzogrm/ZZTong-Prefabs-V3-0-ZZ032.zip?rlkey=hjttadxw2t94cj6r3n9igek2y&st=j8ms3dgq&raw=1"
+      "url": "http://127.0.0.1:8000/packages/Teragon POIs.zip"
     }
   ],
+
   "changelog": []
 }
