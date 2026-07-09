@@ -1,14 +1,13 @@
 {
   "manifestVersion": 1,
   "appName": "GrilliestBears 7D2D Server Sync",
-  "latestVersion": "0.1.2",
+  "latestVersion": "0.1.4",
   "minimumSupportedVersion": "0.1.0",
-  "downloadUrl": "https://www.dropbox.com/scl/fi/sblvkqutapxdme78fyhqy/GrillyBearLauncher1.2.zip?rlkey=l2f1fu3ggyiu1emt3ioten8m5&st=9o7w1fca&raw=1",
-  "sha256": "362c4f927eb1502ebb4db9dde47099ea464aae18bcad07b3e8b984304860d5e2",
-  "size": 59168719,
+  "downloadUrl": "https://www.dropbox.com/scl/fi/fuy8ld6an4h3u26sjkjhv/dist.zip?rlkey=fz0985purphicavmjzqnp0b7a&st=67k5sr89&raw=1",
+  "sha256": "eb4039f35b53c842a3763aa4777ef1a95e6347b3c70a5dd027e468250f68d2ec",
+  "size": 59170965,
   "releaseNotes": [
-    "Launcher now checks for launcher updates automatically on startup",
-    "Created Launcher Home To Choose Modpack To Play"
+    "Changed From github to grillybear server"
   ],
   "forceUpdate": true
 }
